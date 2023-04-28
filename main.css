@@ -158,6 +158,11 @@ span {
   padding-bottom: 10px;
 }
 
+.text-wrap{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
